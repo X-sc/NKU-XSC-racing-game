@@ -1,3 +1,3 @@
 # NKU-XSC-racing-game
 本项目为南开大学2025-2026年度高级语言程序设计2-2课程大作业，完成者为南开大学25级工科试验班（信息科学与技术）大类学生许澍辰，感谢你的驻足浏览，如有试玩兴趣，请在下载后将res贴图文件夹与exe应用程序放置于同一地址以保证游戏贴图运转正常，感谢你的支持！
-Thanks for your visit and support
+Thanks for your visit and support！
